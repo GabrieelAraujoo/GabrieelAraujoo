@@ -30,12 +30,6 @@ Sou profissional de tecnologia com experiência em monitoramento de ambientes, a
 - Git e GitHub
 - Desenvolvimento de projetos práticos
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrieelAraujoo&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieelAraujoo&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Araújo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ara%C3%BAjo-064747288/)
